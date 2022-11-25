@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/PlantDashBoard/static/css/main.90209dc1.css",
+    "main.js": "/PlantDashBoard/static/js/main.0ca1f817.js",
+    "static/media/video 1.mp4": "/PlantDashBoard/static/media/video 1.3c1d00ae96e3f120f6dc.mp4",
+    "static/media/imgt.png": "/PlantDashBoard/static/media/imgt.195c81cdb470f6e8e84d.png",
+    "static/media/user 3.jpg": "/PlantDashBoard/static/media/user 3.03417c01b86bb02d08b7.jpg",
+    "static/media/user 5.jpg": "/PlantDashBoard/static/media/user 5.6cf5eb914a05d6f9b5b0.jpg",
+    "static/media/img 1.png": "/PlantDashBoard/static/media/img 1.6e92bef9fb11d5d5d894.png",
+    "static/media/img 2.png": "/PlantDashBoard/static/media/img 2.9f4347fcd7b95c919931.png",
+    "static/media/user 4.jpg": "/PlantDashBoard/static/media/user 4.794b58f56e2732ecea99.jpg",
+    "static/media/img 4.png": "/PlantDashBoard/static/media/img 4.a63d7c6ec6cdfe85a035.png",
+    "static/media/logo.png": "/PlantDashBoard/static/media/logo.bcaeec7e72039c187599.png",
+    "static/media/img 5.png": "/PlantDashBoard/static/media/img 5.7d7f80117ca956fe7393.png",
+    "static/media/user 7.jpg": "/PlantDashBoard/static/media/user 7.435aeaabe3f427ad59b9.jpg",
+    "static/media/user 2.jpg": "/PlantDashBoard/static/media/user 2.e784c52ab7a62884255e.jpg",
+    "static/media/user 6.jpg": "/PlantDashBoard/static/media/user 6.bf82a1bbd1356241e8d6.jpg",
+    "index.html": "/PlantDashBoard/index.html",
+    "main.90209dc1.css.map": "/PlantDashBoard/static/css/main.90209dc1.css.map",
+    "main.0ca1f817.js.map": "/PlantDashBoard/static/js/main.0ca1f817.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.90209dc1.css",
+    "static/js/main.0ca1f817.js"
+  ]
+}
